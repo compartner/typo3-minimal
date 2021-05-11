@@ -2,6 +2,8 @@
   "name": "compartner/typo3-minimal",
   "description": "Meta package with minimal package requirement",
   "type": "library",
+	"homepage": "https://www.cp-compartner.de/",
+	"license": ["GPL-2.0-or-later"],
 
   "require": {
     "typo3/cms-core": "*",
